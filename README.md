@@ -1,19 +1,29 @@
-# /home/kmonsoor
+# /home/kmonsoor  
+
+----------------
 
 ## [Personal blog](https://blog.kmonsoor.com)
+  
+
 
 ## Open Source
   * [**Github root**](https://github.com/kmonsoor)
   * [**Python libraries**](https://pypi.org/user/kmonsoor/)
   * [**JavaScript libraries**](https://www.npmjs.com/~kmonsoor)
 
+
+
 ## Photography
   * [**500px**](https://500px.com/kmonsoor)
   * [**flickr**](https://www.flickr.com/photos/kmonsoor/)
 
+
+
 ## Professional
   * [**LinkedIn**](https://www.linkedin.com/in/kmonsoor)
-  * [**StackOverflow Careers**](http://stackoverflow.com/story/kmonsoor)
+  * [**StackOverflow Careers**](https://stackoverflow.com/story/kmonsoor)
+
+
 
 ## Contact
  * [**@KhaledMonsoor**](https://twitter.com/KhaledMonsoor)
