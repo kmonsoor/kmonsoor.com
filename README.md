@@ -22,11 +22,13 @@
 ## Professional
   * [**LinkedIn**](https://www.linkedin.com/in/kmonsoor)
   * [**StackOverflow Careers**](https://stackoverflow.com/story/kmonsoor)
- 
+
+
   
-## Pet projects  
-  * [Islamic prayer timetable](https://salat.gq)
-  * [embedX](http://embedx.gq)
+## Pet projects 
+  * [**Islamic prayer timetable**](https://salat.gq)
+  * [**embedX**](http://embedx.gq)
+  
   
 ## Contact
  * [**@KhaledMonsoor**](https://twitter.com/KhaledMonsoor)
